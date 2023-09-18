@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RDk+wMzNWoOiibpr4MCGnTqGB+H1h80U/P+8XwRRQ61d5BL3+nzaCL2wMBjogQRLTT9GCFsRtn0A4RBpTk4gQ==",
+  "dgSpecHash": "8AbehI6P5qhKGaPk7OwjD3he6YGI6HfBAt2ySgWcDcwy4nBEwQHhNgkBEyjM9Baj+YWqUhWjGxTfHKn9Gg7yIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\WebApi\\WebApi.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

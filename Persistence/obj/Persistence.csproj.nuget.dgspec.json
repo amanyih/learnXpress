@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

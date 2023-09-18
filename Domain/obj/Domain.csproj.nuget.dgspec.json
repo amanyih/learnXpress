@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj": {}
+    "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj": {
+    "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Projects\\learnXpress\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
